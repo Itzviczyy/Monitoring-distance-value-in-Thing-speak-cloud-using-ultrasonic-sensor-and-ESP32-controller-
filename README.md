@@ -1,8 +1,7 @@
-# Monitoring-distance-value-in-Thing-speak-cloud-using-ultrasonic-sensor-and-ESP32-controller
 ### NAME: VIGNESH G
 ### REG NO: 24900905
 
-# Uploading ultrasonic sensor data in Thing Speak cloud
+# Experiment 6 -Monitoring distance value in Thing speak cloud using ultrasonic sensor and ESP32 controller
 
 # AIM:
 To monitor the distance of the obstacle in the Thing speak cloud using ultrasonic sensor and ESP32 controller.
